@@ -1,4 +1,4 @@
 # FirstRepos
 This is my first repository.
 
-This is a test to updating the readme file
+This is a test to update the readme file.
